@@ -1,0 +1,5 @@
+print("My name is Tom")
+print("I am a music generator")
+print("I can create music for you")
+print("I can create music for you")
+print("I can create music for you")
